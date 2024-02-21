@@ -1,10 +1,10 @@
 inputUser = int(input("Please Enter the right word: "))
 
 if inputUser == 0:
-    print("hello ", inputUser + 10)
+    print("Zero")
 elif inputUser == 1:
-    print("hello " , inputUser + 1)
+    print("One")
 elif inputUser == 2:
-    print("hello" , inputUser * 2)
+    print("Tow")
 else:
-    print("hello world")
+    print(r"I donn't know")
